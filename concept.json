@@ -1,0 +1,11 @@
+{
+  "slug": "chain-firsts-index",
+  "name": "Chain Firsts Index",
+  "kind": "trend",
+  "description": "Define and validate claims for notable first artifacts across Solana and EVM chains.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
