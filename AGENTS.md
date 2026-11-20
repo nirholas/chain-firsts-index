@@ -8,7 +8,7 @@ Define and validate claims for notable first artifacts across Solana and EVM cha
 
 - Source: https://github.com/nirholas/chain-firsts-index
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
